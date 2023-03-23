@@ -1,0 +1,7 @@
+Produto | Valor | Estoque disponível
+Café Pilão | R$ 5,00 | 1 
+Pão |  R$ 5,00 | 100 
+Leite Shefa | R$ 4,67 | 2 
+Leite Tirol | R$ 4,67 | 2 
+Leite Piracanjuba | R$ 4,67 | 2
+Detergente Ype | R$ 4,67 | 2 
