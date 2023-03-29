@@ -1,7 +1,196 @@
-Produto | Valor | Estoque disponível
-Café Pilão | R$ 5,00 | 1 
-Pão |  R$ 5,00 | 100 
-Leite Shefa | R$ 4,67 | 2 
-Leite Tirol | R$ 4,67 | 2 
-Leite Piracanjuba | R$ 4,67 | 2
-Detergente Ype | R$ 4,67 | 2 
+Arroz | Tio João | R$5,99 | Promoção: R$4,99
+Feijão | Camil | R$6,50 |
+Macarrão | Barilla | R$3,50 | Promoção: R$2,99
+Óleo de soja | Liza | R$4,99 |
+Açúcar | União | R$3,20 | Promoção: R$2,70
+Café | Pilão | R$9,90 |
+Farinha de trigo | Dona Benta | R$3,75 |
+Leite | Ninho | R$4,00 | Promoção: R$3,50
+Ovos | Granja Mantiqueira | R$8,99 |
+Manteiga | Aviação | R$12,90 | Promoção: R$11,50
+Sal | Cisne | R$1,80 |
+Detergente | Ypê | R$2,20 | Promoção: R$1,89
+Sabão em pó | Omo | R$12,99 |
+Papel higiênico | Neve | R$7,50 | Promoção: R$6,50
+Shampoo | Pantene | R$15,99 |
+Condicionador | Pantene | R$16,99 |
+Creme dental | Colgate | R$4,50 | Promoção: R$3,99
+Sabonete | Dove | R$2,20 |
+Desodorante | Rexona | R$10,50 |
+Água sanitária | Qboa | R$4,99 | Promoção: R$4,29
+Esponja de aço | Bombril | R$1,50 |
+Papel alumínio | Wyda | R$5,99 |
+Saco de lixo | Embalixo | R$6,50 |
+Amaciante | Comfort | R$7,99 | Promoção: R$6,99
+Vinagre | Castelo | R$2,90 |
+Ketchup | Heinz | R$6,50 |
+Mostarda | Hellmann's | R$4,50 | Promoção: R$3,99
+Maionese | Hellmann's | R$5,99 |
+Extrato de tomate | Elefante | R$3,99 |
+Achocolatado | Nescau | R$6,90 | Promoção: R$5,99
+Bolacha | Bauducco | R$4,50 |
+Pão de forma | Pullman | R$6,90 |
+Leite condensado | Moça | R$4,99 | Promoção: R$4,29
+Creme de leite | Nestlé | R$3,90 |
+Gelatina | Royal | R$1,80 |
+Iogurte | Danone | R$4,50 |
+Suco em pó | Tang | R$1,30 | Promoção: R$1,00
+Refrigerante | Coca-Cola | R$6,50 |
+Água mineral | Bonafont | R$1,99 |
+Arroz | Prato Fino | R$6,20 | Promoção: R$5,50
+Feijão | Tropeiro | R$7,00 |
+Macarrão | Renata | R$3,80 | Promoção: R$3,29
+Óleo de soja | Soya | R$4,80 |
+Açúcar | Da Barra | R$3,10 | Promoção: R$2,69
+Café | Melitta | R$8,90 |
+Farinha de trigo | Sol | R$3,40 |
+Leite | Parmalat | R$3,90 | Promoção: R$3,40
+Ovos | Granja Faria | R$8,50 |
+Manteiga | Itambé | R$11,90 | Promoção: R$10,90
+Sal | Nobre | R$1,70 |
+Detergente | Limpol | R$1,90 | Promoção: R$1,69
+Sabão em pó | Ariel | R$11,99 |
+Papel higiênico | Personal | R$6,80 | Promoção: R$5,99
+Shampoo | Seda | R$14,99 |
+Condicionador | Seda | R$15,99 |
+Creme dental | Oral-B | R$4,20 | Promoção: R$3,79
+Sabonete | Lux | R$1,99 |
+Desodorante | Dove | R$9,90 |
+Água sanitária | Super Candida | R$4,20 | Promoção: R$3,79
+Esponja de aço | Assolan | R$1,40 |
+Papel alumínio | Alumin | R$5,50 |
+Saco de lixo | Plasvale | R$6,20 |
+Amaciante | Downy | R$8,99 | Promoção: R$7,99
+Vinagre | Saboroso | R$2,70 |
+Ketchup | Predilecta | R$5,50 |
+Mostarda | Hemmer | R$3,90 | Promoção: R$3,49
+Maionese | Maionese Soya | R$5,40 |
+Extrato de tomate | Pomarola | R$3,60 |
+Achocolatado | Toddy | R$6,50 | Promoção: R$5,79
+Bolacha | Piraquê | R$4,00 |
+Pão de forma | Wickbold | R$6,50 |
+Leite condensado | Piracanjuba | R$4,20 | Promoção: R$3,69
+Creme de leite | Piracanjuba | R$3,70 |
+Gelatina | Dr. Oetker | R$1,60 |
+Iogurte | Activia | R$4,20 |
+Suco em pó | Clight | R$1,40 | Promoção: R$1,10
+Refrigerante | Pepsi | R$6,00 |
+Água mineral | Crystal | R$1,89
+Arroz integral | Camil | R$7,50 | Promoção: R$6,50
+Atum enlatado | Gomes da Costa | R$5,99 |
+Biscoito recheado | Trakinas | R$3,80 | Promoção: R$3,29
+Mistura para bolo | Fleischmann | R$5,50 |
+Sardinha enlatada | Coqueiro | R$3,99 | Promoção: R$3,49
+Caldo de galinha | Knorr | R$1,50 |
+Palmito em conserva | Hemmer | R$7,90 |
+Pimenta | Tabasco | R$12,99 | Promoção: R$11,99
+Azeite | Gallo | R$15,99 |
+Molho de tomate | Quero | R$2,80 | Promoção: R$2,39
+Milho verde em conserva | Quero | R$3,50 |
+Ervilha em conserva | Fugini | R$2,99 |
+Catchup picante | Heinz | R$6,80 | Promoção: R$5,99
+Chocolate em pó | Garoto | R$6,00 |
+Cereal matinal | Nestlé | R$8,99 |
+Torrada | Adria | R$3,50 | Promoção: R$2,99
+Biscoito de polvilho | Yoki | R$3,80 |
+Alho triturado | Cepêra | R$3,90 |
+Tempero completo | Sazón | R$5,99 | Promoção: R$5,29
+Pão de queijo congelado | Forno de Minas | R$11,50 |
+Milho de pipoca | Yoki | R$3,20 |
+Álcool em gel | Asseptgel | R$6,99 | Promoção: R$5,99
+Bacon | Perdigão | R$7,99 | Promoção: R$6,99
+Cebola | Hortifruti | R$3,50/kg |
+Salsinha | Hortifruti | R$1,50/maço |
+Cebolinha | Hortifruti | R$1,50/maço |
+Ovo | Granja Faria | R$8,50 |
+Salsicha | Sadia | R$8,50 | Promoção: R$7,50
+Pão de cachorro-quente | Pullman | R$5,50 |
+Molho de tomate | Quero | R$2,80 | Promoção: R$2,39
+Batata palha | Yoki | R$3,80 |
+Milho verde em conserva | Quero | R$3,50 |
+Ervilha em conserva | Fugini | R$2,99 |
+Queijo ralado | Faixa Azul | R$8,99 |
+Cuscuz marroquino | Taeq | R$7,99 | Promoção: R$6,99
+Tomate | Hortifruti | R$4,50/kg |
+Pimentão | Hortifruti | R$5,00/kg |
+Cebola | Hortifruti | R$3,50/kg |
+Azeite | Gallo | R$15,99 |
+Limão | Hortifruti | R$3,00/kg |
+Hortelã | Hortifruti | R$1,50/maço |
+Passas | Kodilar | R$9,99 | Promoção: R$8,99
+Castanha de caju | Zaeli | R$28,99/kg |
+Leite condensado | Moça | R$4,99 | Promoção: R$4,29
+Leite | Ninho | R$4,00 | Promoção: R$3,50
+Ovo | Granja Faria | R$8,50 |
+Açúcar | União | R$3,20 | Promoção: R$2,70
+Coco ralado | Sococo | R$4,99 | Promoção: R$4,29
+Açúcar | União | R$3,20 | Promoção: R$2,70
+Leite condensado | Moça | R$4,99 | Promoção: R$4,29
+Manteiga | Aviação | R$12,90 | Promoção: R$11,50
+Fubá | Yoki | R$2,99 | Promoção: R$2,49
+Açúcar | União | R$3,20 | Promoção: R$2,70
+Leite | Ninho | R$4,00 | Promoção: R$3,50
+Ovo | Granja Faria | R$8,50 |
+Queijo ralado | Faixa Azul | R$8,99 |
+Manteiga | Aviação | R$12,90 | Promoção: R$11,50
+Arroz | Tio João | R$5,99 | Promoção: R$4,99
+Leite | Ninho | R$4,00 | Promoção: R$3,50
+Açúcar | União | R$3,20 | Promoção: R$2,70
+Canela em pó | Kitano | R$4,50 |
+Cravo-da-índia | Kitano | R$3,99 |
+Leite condensado | Moça | R$4,99 | Promoção: R$4,29
+Frango inteiro | Seara | R$12,90/kg |
+Filé de frango | Sadia | R$16,99/kg | Promoção: R$15,49/kg
+Coxinha da asa | Seara | R$14,50/kg |
+Peito de frango | Perdigão | R$15,99/kg |
+Sobrecoxa de frango | Seara | R$11,90/kg | Promoção: R$10,90/kg
+Asa de frango | Sadia | R$13,50/kg |
+Linguiça de frango | Aurora | R$12,50/kg |
+Filé mignon | Friboi | R$49,90/kg | Promoção: R$45,90/kg
+Contrafilé | Friboi | R$29,90/kg |
+Alcatra | Friboi | R$31,90/kg |
+Picanha | Friboi | R$54,90/kg | Promoção: R$49,90/kg
+Coxão mole | Friboi | R$25,90/kg |
+Maminha | Friboi | R$29,90/kg |
+Fraldinha | Friboi | R$26,90/kg |
+Costela bovina | Friboi | R$18,90/kg |
+Linguiça calabresa | Aurora | R$15,90/kg |
+Linguiça toscana | Sadia | R$17,50/kg | Promoção: R$15,99/kg
+Linguiça de porco | Perdigão | R$14,90/kg |
+Pernil suíno | Sadia | R$19,90/kg |
+Lombo suíno | Perdigão | R$21,90/kg | Promoção: R$19,90/kg
+Costela suína | Seara | R$25,90/kg |
+Hambúrguer bovino | Friboi | R$22,90/kg | Promoção: R$20,90/kg
+Hambúrguer de frango | Sadia | R$19,90/kg |
+Hambúrguer de peru | Seara | R$24,90/kg |
+Peixe tilápia | Frescatto | R$21,90/kg |
+Salmão | Frescatto | R$64,90/kg | Promoção: R$59,90/kg
+Bacalhau | Frescatto | R$89,90/kg |
+Presunto fatiado | Sadia | R$18,90/kg |
+Mortadela | Perdigão | R$12,50/kg | Promoção: R$11,50/kg
+Salame | Etti | R$29,90/kg |
+Carne moída | Friboi | R$18,90/kg |
+Carne seca | Paineira | R$39,90/kg |
+Charque | JBS | R$36,90/kg | Promoção: R$34,90/kg
+Filé de merluza | Frescatto | R$25,90/kg |
+Camarão | Frescatto | R$59,90/kg |
+Refrigerante Coca-Cola | Coca-Cola | R$6,50 | Promoção: R$5,50
+Refrigerante Guaraná Antártica | Ambev | R$6,00 | Promoção: R$5,00
+Refrigerante Sprite | Coca-Cola | R$6,00 |
+Refrigerante Fanta Uva | Coca-Cola | R$6,00 |
+Refrigerante H2OH! | PepsiCo | R$3,50 | Promoção: R$3,00
+Vinho tinto Casillero del Diablo | Concha y Toro | R$59,90 | Promoção: R$49,90
+Vinho branco Santa Carolina | Santa Carolina | R$39,90 |
+Vinho tinto Almaviva | Almaviva | R$499,00 |
+Vinho rosé Mateus | Sogrape | R$34,90 | Promoção: R$29,90
+Vinho tinto Miolo | Miolo | R$25,90 |
+Cerveja Heineken | Heineken | R$3,50/unidade | Promoção: R$3,00/unidade
+Cerveja Budweiser | Ambev | R$3,00/unidade | Promoção: R$2,50/unidade
+Cerveja Stella Artois | Ambev | R$3,80/unidade |
+Cerveja Skol | Ambev | R$2,50/unidade | Promoção: R$2,00/unidade
+Cerveja Brahma | Ambev | R$2,50/unidade | Promoção: R$2,00/unidade
+Cerveja Eisenbahn | Heineken | R$3,90/unidade |
+Cerveja Bohemia | Ambev | R$3,20/unidade | Promoção: R$2,80/unidade
+Cerveja Colorado | Ambev | R$4,50/unidade |
+Cerveja Corona Extra | Grupo Modelo | R$4,50/unidade | Promoção: R$3,90/unidade
+Cerveja Hoegaarden | AB InBev | R$6,90/unidade | Promoção: R$5,90/unidade
